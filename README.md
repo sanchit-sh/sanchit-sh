@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sanchit Sharma
-- 👀 I’m interested in Finance
+- 👀 I’m interested in Finance and Accounts
 - 🌱 I’m currently learning Accounts, Trading, SQL, Tableu
 - 📫 https://www.linkedin.com/in/sanchit-sharma-6511851ba/
 
